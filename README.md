@@ -8,6 +8,6 @@ The idea is to deeply understand why each data structure was invented, intricaci
 <details>
   <summary>Basic Data Structures</summary>
 
-  1. [`Stack`](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
+  1. [`Stack`](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
   2. [`Vector`](https://en.wikipedia.org/wiki/Dynamic_array)
 </details>
