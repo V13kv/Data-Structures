@@ -11,4 +11,5 @@ The idea is to deeply understand why each data structure was invented, intricaci
   1. [`Stack`](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
   2. [`Vector`](https://en.wikipedia.org/wiki/Dynamic_array)
   3. [`Queue`](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
+  4. [`Linked List`](https://en.wikipedia.org/wiki/Linked_list)
 </details>
